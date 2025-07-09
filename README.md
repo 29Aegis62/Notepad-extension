@@ -2,7 +2,7 @@
 You can set it up in your chromium browser of choice (Chrome, edge, etc.,) by 
 1. Cloning this repo (though you will probably find more professionaly built extensions right around the webstore ;) 
 ```console
-git clone 
+git clone https://github.com/29Aegis62/Notepad-extension.git
 ```
 2. Navigate to *browser-name://extenstions*
 3. Enable developer tools and click on **load unpackaged**
