@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Notepad",
+  "version": "1.0",
+  "description": "A basic notepad inside your browser.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "notepad.png"
+  },
+  "permissions": ["storage"]
+}
